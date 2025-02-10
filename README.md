@@ -57,13 +57,6 @@ Or download the **ZIP file** and extract it.
 
 ---
 
-## **Contributing**  
-Want to improve the game? **Contributions are welcome!**  
-
-1. **Fork the repository**.  
-2. Create a new branch (`feature-newpuzzle`).  
-3. Commit your changes and push to your branch.  
-4. Submit a **pull request**.  
 
 ---
 
